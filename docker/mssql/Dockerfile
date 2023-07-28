@@ -1,0 +1,3 @@
+FROM hibernateapp_mssql
+ENV MSSQL_ROOT_USERNAME=test
+ENV MSSQL_ROOT_PASSWORD=test
